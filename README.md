@@ -33,22 +33,6 @@ The users of Commoditic's industrial commodities prices data are of diverse back
 <li><strong>Di-ammonium</strong></li>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <h2>Ways to access industrial commodities prices data</h2>
 <ul>
  	<li><strong>JSON REST API</strong></li>
@@ -59,10 +43,12 @@ The users of Commoditic's industrial commodities prices data are of diverse back
 
 Our <a href="https://commoditic.com/documentation/" rel="nofollow">documentation</a> includes input API filtering parameters, output response objects with explanation of their meanings. Clear request and response examples are given on the documentation page.
 
-https://commoditic.com/api/v1/commodities
-    ?key=[API-KEY]&category=industrial
 
-{
+<p><strong>API endpoints</strong><p>
+<p><a href="https://tradefeeds.com/api-documentation">https://commoditic.com/api/v1/commodities?key=[API-KEY]&category=industrial
+</a></p>
+
+
     "status": {
         "message": "Success"
     },
@@ -80,7 +66,6 @@ https://commoditic.com/api/v1/commodities
             "Date": "2022.09.12"
         }
     [
-}
 
 <h2>Customer support</h2>
 In case that you encounter a data issue, please contact us at support@commoditic.com.
