@@ -45,7 +45,7 @@ Our <a href="https://commoditic.com/documentation/" rel="nofollow">documentation
 
 
 <p><strong>API endpoints</strong><p>
-<p><a href="https://commoditic.com/industrial-commodity-prices-api/">https://api.commoditic.com/api/v1/commodities?key=[API-KEY]&category=industrial </a></p>
+<p><a href="https://commoditic.com/industrial-commodity-prices-api/">https://api.commoditic.com/api/v1/commodities?key=[API-KEY]&name=industrial </a></p>
 
 
     "status": {
@@ -65,6 +65,59 @@ Our <a href="https://commoditic.com/documentation/" rel="nofollow">documentation
             "Date": "2022.09.12"
         }
     [
+
+
+
+<p><a href="https://commoditic.com/industrial-commodity-prices-api/">https://api.commoditic.com/api/v1/commodities?key=[API-KEY]&category=industrial </a></p>
+
+
+    "status": {
+        "message": "Success"
+    },
+    "results": [
+        {
+            "category": "Industrial",
+            "Name": "Zinc"
+            "Unit": "USD/T.oz"
+            "Price": "3219.50"
+            "Day Price Change": "52.00"
+            "Day Percentage Change": "1.64%"
+            "Weekly Percentage Change": 2.68%"
+            "Monthly Percentage Change": "-17.78%"
+            "Yearly Percentage Change": "3.47%"
+            "Date": "2022.09.12"
+            
+            
+             "category": "Industrial",
+            "Name": "Aluminum"
+            "Unit": "USD/T"
+            "Price": "2314.00"
+            "Day Price Change": "-17.00"
+            "Day Percentage Change": "-0.73%"
+            "Weekly Percentage Change": 7.03%"
+            "Monthly Percentage Change": "1.65%"
+            "Yearly Percentage Change": "-21.85%"
+            "Date": "2022.10.07"
+            
+            
+             "category": "Industrial",
+            "Name": "Tellurium"
+            "Unit": "CNY/Kg"
+            "Price": "482.50"
+            "Day Price Change": "00.00"
+            "Day Percentage Change": "00.00%"
+            "Weekly Percentage Change": 00.00%"
+            "Monthly Percentage Change": "4.32%"
+            "Yearly Percentage Change": "-4.46%"
+            "Date": "2022.10.06"
+            
+        }
+    [
+
+
+
+
+
 
 <h2>Customer support</h2>
 In case that you encounter a data issue, please contact us at support@commoditic.com.
