@@ -63,8 +63,7 @@ Our <a href="https://commoditic.com/documentation/" rel="nofollow">documentation
             "Monthly Percentage Change": "-17.78%"
             "Yearly Percentage Change": "3.47%"
             "Date": "2022.09.12"
-        }
-    [
+   
 
 
 
@@ -110,9 +109,7 @@ Our <a href="https://commoditic.com/documentation/" rel="nofollow">documentation
             "Monthly Percentage Change": "4.32%"
             "Yearly Percentage Change": "-4.46%"
             "Date": "2022.10.06"
-            
-        }
-    [
+
 
 
 
