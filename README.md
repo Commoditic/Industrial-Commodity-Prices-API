@@ -45,8 +45,7 @@ Our <a href="https://commoditic.com/documentation/" rel="nofollow">documentation
 
 
 <p><strong>API endpoints</strong><p>
-<p><a href="https://tradefeeds.com/api-documentation">https://commoditic.com/api/v1/commodities?key=[API-KEY]&category=industrial
-</a></p>
+<p><a href="https://commoditic.com/industrial-commodity-prices-api/">https://api.commoditic.com/api/v1/commodities?key=[API-KEY]&category=industrial </a></p>
 
 
     "status": {
@@ -71,4 +70,4 @@ Our <a href="https://commoditic.com/documentation/" rel="nofollow">documentation
 In case that you encounter a data issue, please contact us at support@commoditic.com.
 
 <h2>Legal</h2>
-<p> The use of Commoditic proprietary data and API database is subject to the&nbsp;<a href="/"> https://commoditic.com/terms-and-conditions/</a></p>
+<p> The use of Commoditic proprietary data and API database is subject to the&nbsp;<a href="https://commoditic.com/terms-and-conditions">Terms and Conditions</a></p>
