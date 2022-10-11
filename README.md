@@ -45,7 +45,7 @@ Our <a href="https://commoditic.com/documentation/" rel="nofollow">documentation
 
 
 <p><strong>API endpoints</strong><p>
-<p><a href="https://commoditic.com/industrial-commodity-prices-api/">https://api.commoditic.com/api/v1/commodities?key=[API-KEY]&name=industrial </a></p>
+<p><a href="https://commoditic.com/industrial-commodity-prices-api/">https://api.commoditic.com/api/v1/commodities?key=[API-KEY]&name=zinc </a></p>
 
 
     "status": {
